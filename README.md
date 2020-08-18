@@ -214,8 +214,3 @@ Go back to your project and check that the output file and the flow are now part
 
 ![Output Flow Assets](readme_images/output-flow-assets.png)
 
-## If you have any questions just contact me
-Felix Augenstein<br>
-Digital Tech Ecosystem & Developer Representative @IBM<br>
-Twitter: [@F_Augenstein](https://twitter.com/F_Augenstein)<br>
-LinkedIn: [linkedin.com/in/felixaugenstein](https://www.linkedin.com/in/felixaugenstein/)
