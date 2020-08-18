@@ -11,7 +11,7 @@
 ## Digital Tech Tutorial Watson Studio Part I to IV
 
 This tutorial consists of 4 parts, you can start with part I or any other part, however, the necessary environment is set up in part I.<br>
-[Part I - data visualization, preparation, and transformation](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)<br>
+[Part I - data visualization, preparation, and transformation](https://github.com/you-R-I/Workshop_Watson-Studio-ICP4D-Part1)<br>
 [Part II - build and evaluate machine learning models by using the AutoAI](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio-part-ii/)<br>
 [Part III - graphically build and evaluate machine learning models by using the SPSS Modeler flow](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio-part-iii/)<br>
 [Part IV - set up and run Jupyter Notebooks to develop a machine learning model](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio-part-iv/)
