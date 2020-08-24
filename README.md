@@ -1,5 +1,9 @@
-<h1 align="center" style="border-bottom: none;">:bar_chart: IBM Digital Tech Tutorial: Watson Studio Part I</h1>
+<h1 align="center" style="border-bottom: none;">:bar_chart: Introduction to Machine Learning and Watson Studio </h1>
 <h3 align="center">In this hands-on tutorial you will perform data visualization, preparation, and transformation to build a high-quality predictive model for customer churn.</h3>
+
+This tutorial is an updated version of the [IBM Digital Tech Tutorial: Watson Studio], which is based on the [Learning path: Getting started with Watson Studio]. Credits and aprreciation to my IBM colleague Felix Augenstein.
+(https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)
+(https://developer.ibm.com/series/learning-path-watson-studio/) 
 
 ## Prerequisites
 
@@ -16,7 +20,6 @@ This tutorial consists of 4 parts, you can start with part I or any other part, 
 [Part III - graphically build and evaluate machine learning models by using the SPSS Modeler flow](https://github.com/you-R-I/Workshop_Watson-Studio-ICP4D-Part3)<br>
 [Part IV - set up and run Jupyter Notebooks to develop a machine learning model](https://github.com/you-R-I/Workshop_Watson-Studio-ICP4D-Part4)
 
-The 4 parts of this tutorial are based on the [Learning path: Getting started with Watson Studio](https://developer.ibm.com/series/learning-path-watson-studio/).
 
 ## Set up your environment
 
