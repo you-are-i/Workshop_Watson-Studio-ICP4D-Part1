@@ -1,9 +1,9 @@
 <h1 align="center" style="border-bottom: none;">:bar_chart: Introduction to Machine Learning and Watson Studio </h1>
 <h3 align="center">In this hands-on tutorial you will perform data visualization, preparation, and transformation to build a high-quality predictive model for customer churn.</h3>
 
-This tutorial is an updated version of the [IBM Digital Tech Tutorial: Watson Studio], which is based on the [Learning path: Getting started with Watson Studio]. Credits and aprreciation to my IBM colleague Felix Augenstein.
-(https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio)
-(https://developer.ibm.com/series/learning-path-watson-studio/) 
+This tutorial is an updated version of the [IBM Digital Tech Tutorial: Watson Studio](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio), which is based on the [Learning path: Getting started with Watson Studio](https://developer.ibm.com/series/learning-path-watson-studio/). Credits and aprreciation to my IBM colleague Felix Augenstein.
+
+
 
 ## Prerequisites
 
